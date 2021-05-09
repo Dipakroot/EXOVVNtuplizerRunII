@@ -48,5 +48,5 @@ if config["DOBSTAUTAU"] or config["DOBSTAUTAUFH"] or config["DOBSDSTARTAUNU"]:
 
 #--------- JEC ----------#
 
-config["CORRMETONTHEFLY"] = False  # at the moment JEC available just for MC Fall17
+config["CORRMETONTHEFLY"] = False  # at the moment JEC available just for MC Fall17#
 
